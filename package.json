@@ -1,0 +1,7 @@
+{
+  "name": "@phazonoverload/first-package",
+  "version": "0.0.3",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
