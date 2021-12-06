@@ -1,6 +1,6 @@
 # Boilerplate NPM Package
 
-This is a repository that supports an upcoming blog post on <https://developers.deepgram.com>. 
+This is a repository that supports an upcoming blog post at <https://developers.deepgram.com/blog/2021/12/build-npm-packages/>. 
 
 This package is published and can be used by installing it:
 
