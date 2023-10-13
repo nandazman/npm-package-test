@@ -1,7 +1,9 @@
 {
-  "name": "@phazonoverload/first-package",
-  "version": "0.0.3",
+  "name": "@nandazman/first-package",
+  "version": "0.0.1",
   "dependencies": {
-    "axios": "^0.24.0"
-  }
+    "axios": "^0.24.0",
+    "yargs": "^17.7.2"
+  },
+  "bin": "./bin.js"
 }
